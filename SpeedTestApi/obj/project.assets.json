@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jis/Projects/az-speedtest-api/SpeedTestApi/SpeedTestApi.csproj",
+      "projectUniqueName": "/Users/jis/Projects/az-speedtest-api/az-speedtest-api/SpeedTestApi/SpeedTestApi.csproj",
       "projectName": "SpeedTestApi",
-      "projectPath": "/Users/jis/Projects/az-speedtest-api/SpeedTestApi/SpeedTestApi.csproj",
+      "projectPath": "/Users/jis/Projects/az-speedtest-api/az-speedtest-api/SpeedTestApi/SpeedTestApi.csproj",
       "packagesPath": "/Users/jis/.nuget/packages/",
-      "outputPath": "/Users/jis/Projects/az-speedtest-api/SpeedTestApi/obj/",
+      "outputPath": "/Users/jis/Projects/az-speedtest-api/az-speedtest-api/SpeedTestApi/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
