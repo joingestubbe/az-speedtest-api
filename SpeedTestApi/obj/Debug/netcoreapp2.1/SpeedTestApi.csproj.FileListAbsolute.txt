@@ -1,0 +1,14 @@
+/Users/jis/Projects/az-speedtest-api/SpeedTestApi/bin/Debug/netcoreapp2.1/SpeedTestApi.deps.json
+/Users/jis/Projects/az-speedtest-api/SpeedTestApi/bin/Debug/netcoreapp2.1/SpeedTestApi.runtimeconfig.json
+/Users/jis/Projects/az-speedtest-api/SpeedTestApi/bin/Debug/netcoreapp2.1/SpeedTestApi.runtimeconfig.dev.json
+/Users/jis/Projects/az-speedtest-api/SpeedTestApi/bin/Debug/netcoreapp2.1/SpeedTestApi.dll
+/Users/jis/Projects/az-speedtest-api/SpeedTestApi/bin/Debug/netcoreapp2.1/SpeedTestApi.pdb
+/Users/jis/Projects/az-speedtest-api/SpeedTestApi/obj/Debug/netcoreapp2.1/SpeedTestApi.csprojAssemblyReference.cache
+/Users/jis/Projects/az-speedtest-api/SpeedTestApi/obj/Debug/netcoreapp2.1/SpeedTestApi.csproj.CoreCompileInputs.cache
+/Users/jis/Projects/az-speedtest-api/SpeedTestApi/obj/Debug/netcoreapp2.1/SpeedTestApi.RazorAssemblyInfo.cache
+/Users/jis/Projects/az-speedtest-api/SpeedTestApi/obj/Debug/netcoreapp2.1/SpeedTestApi.RazorAssemblyInfo.cs
+/Users/jis/Projects/az-speedtest-api/SpeedTestApi/obj/Debug/netcoreapp2.1/SpeedTestApi.AssemblyInfoInputs.cache
+/Users/jis/Projects/az-speedtest-api/SpeedTestApi/obj/Debug/netcoreapp2.1/SpeedTestApi.AssemblyInfo.cs
+/Users/jis/Projects/az-speedtest-api/SpeedTestApi/obj/Debug/netcoreapp2.1/SpeedTestApi.RazorTargetAssemblyInfo.cache
+/Users/jis/Projects/az-speedtest-api/SpeedTestApi/obj/Debug/netcoreapp2.1/SpeedTestApi.dll
+/Users/jis/Projects/az-speedtest-api/SpeedTestApi/obj/Debug/netcoreapp2.1/SpeedTestApi.pdb
